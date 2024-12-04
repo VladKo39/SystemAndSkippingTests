@@ -32,7 +32,7 @@ ___
 
 ## Пример результата выполнения тестов:
 >**Вывод на консоль:**
-```python
+~~~python
 test_challenge (tests_12_3.RunnerTest.test_challenge) ... ok
 test_run (tests_12_3.RunnerTest.test_run) ... ok
 test_walk (tests_12_3.RunnerTest.test_walk) ... ok
@@ -43,9 +43,8 @@ test_second_tournament (tests_12_3.TournamentTest.test_second_tournament) ...
 skipped 'Тесты в этом кейсе заморожены'
 test_third_tournament (tests_12_3.TournamentTest.test_third_tournament) ...
 skipped 'Тесты в этом кейсе заморожены'
-----------------------------------------------------------------------
-Ran 6 tests in 0.000s OK (skipped=3)~~~
 
-
-Файлы suite_12_3.py и tests_12_3.py, где произошли изменения
-загрузите на ваш GitHub репозиторий. В решении пришлите ссылку на него.
+Ran 6 tests in 0.000s OK (skipped=3)
+~~~
+**Файлы suite_12_3.py и tests_12_3.py, где произошли изменения
+загрузите на ваш GitHub репозиторий. В решении пришлите ссылку на него.**
