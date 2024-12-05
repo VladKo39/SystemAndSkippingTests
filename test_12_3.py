@@ -15,10 +15,7 @@ class RunnerTest(TestCase):
         for i in range(10):
             wolker.walk()
         self.assertEqual(wolker.distance, 50, 'test_walk: Test is filed!')
-        # 1изменение параметра теста
-        # for i in range(10): на for i in range(8):
-        # 1. Вывод ниже
-
+        
     @unittest.skipIf(is_frozen, 'Тесты в этом кейсе заморожены')
     def test_run(self):
         runner = Runner('Торопыжка')
