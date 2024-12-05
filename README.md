@@ -17,7 +17,7 @@ ___
 >2. Добавьте тесты **RunnerTest** и **TournamentTest** в этот **TestSuite**.
 >3. Создайте объект класса ***TextTestRunner***, с аргументом **`verbosity=2`**.
 >
->## Часть 2. Пропуск тестов.**
+>## Часть 2. Пропуск тестов.
 > 
 >1. Классы ***RunnerTest*** дополнить атрибутом **`is_frozen = False`**
 >и ***TournamentTest*** атрибутом **`is_frozen = True`**.
